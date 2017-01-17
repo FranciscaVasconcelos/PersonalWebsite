@@ -1,0 +1,1 @@
+scp -r Desktop/website/* francisc@athena.dialup.mit.edu:www/
